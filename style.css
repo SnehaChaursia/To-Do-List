@@ -1,0 +1,39 @@
+#heading{
+    text-align: center;
+}
+#input{
+
+    width:50%; 
+    height:30px;
+ text-align: center;
+ border-radius: 10px; 
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ color: black;
+ font-weight: bold;
+
+}
+.box{
+    display: flex;
+    justify-content: center;
+      align-items: center; 
+
+}
+
+
+
+.btn{
+    display:flex;
+    justify-content:space-around;
+    margin-top:10px;
+    
+ 
+}
+#addbtn{
+   width: 50px;
+   height:20px ;
+   background-color: #d60ea4; 
+   border-radius: 10px;
+   border-color: black;
+   cursor:pointer;
+   
+}
